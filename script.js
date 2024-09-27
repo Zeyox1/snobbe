@@ -28,7 +28,7 @@ function typeWriter(text, elementId, speed) {
     type();
 }
 
-const typewriterText = "discord.gg/garagen";
+const typewriterText = "Hi chat";
 const typingSpeed = 50; 
 
 window.onload = function() {
